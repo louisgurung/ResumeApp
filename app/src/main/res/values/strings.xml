@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ResumeProfile</string>
+    <string name="person_s_name">Chandani Gurung</string>
+    <string name="resume">RESUME</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="type_your_email_here">Type your email here</string>
+    <string name="resumecontent">
+        <b>
+            <u>
+                <i>Objective</i>
+            </u>
+        </b>
+        :"\n" Software engineer position in a software company working in the development and designing micro services
+        for an internet media."\n""\n"
+
+        <b>
+            <u>Programming Experience</u>
+        </b>
+        "\n"
+        • Worked on development and designing of a mobile application using Java Spring framework and React- native
+        framework to provide the music streaming services for the customers."\n"
+
+        • Lead a group of five members to develop a web application that provided the users information of the current
+        share/stock market and allowed them to purchase it online."\n"
+
+        • Worked on rewriting the old legacy codes with new technology for an online e-commerce site."\n""\n"
+
+        <b>
+            <u>
+                <i>Analytical skills</i>
+            </u>
+        </b>
+        "\n"
+        • Researched on the application of big data to predict the customer behavior when a new cellphone is
+        released."\n"
+
+        • Built a personal project using the block chain technology for the consumers to know about the agricultural
+        products."\n"
+        Community Involvement
+
+        • Worked as the president of Association of Computer Machinery in 2019 and was the member from 2017-2021."\n"
+
+        • Served as the secretary of the Nepalese Student Association at Southeastern in 2020."\n""\n"
+
+        <b>
+            <u>
+                <i>Employment Background</i>
+            </u>
+        </b>
+        "\n"
+
+        Microsoft Inc.- Application Specialist Intern, Baton Rouge, LA, 2018-2019"\n"
+
+        Center for Student Excellence (CSE)-Mathematics Tutor, Southeastern Louisiana University, Hammond, LA,
+        2017-2019"\n""\n"
+        <b>
+            <u>Educational Background</u>
+        </b>
+        "\n"
+
+        Bachelor’s in Computer Science, Southeastern Louisiana University, Hammond, LA , 2021"\n\n"
+
+    </string>
+    <string name="picture_of_the_person">picture of the person</string>
+    <string name="action_settings">resumeapp</string>
+</resources>

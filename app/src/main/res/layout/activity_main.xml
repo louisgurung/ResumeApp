@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+    <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/person_s_name"
+            android:textColor="#141414"
+            android:textSize="45sp"
+            android:textStyle="bold" />
+
+    <ImageView
+            android:layout_width="426dp"
+            android:layout_height="216dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/picture_of_the_person"
+            app:srcCompat="@mipmap/photoforresumeapp"/>
+
+    <Button
+            android:id="@+id/resumeButton"
+            android:layout_width="337dp"
+
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="#009688"
+            android:gravity="center"
+            android:shadowColor="#009688"
+            android:text="@string/resume"
+            android:textColor="#F8F7F7"
+            android:textSize="30sp"/>
+
+    <EditText
+            android:id="@+id/editAddress"
+            android:layout_width="334dp"
+            android:layout_height="64dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="@string/type_your_email_here"
+            android:inputType="textPersonName"
+            android:textSize="30sp"
+            android:importantForAutofill="no"/>
+
+    <Button
+            android:id="@+id/sendEmailButton"
+            android:layout_width="337dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="#009688"
+            android:text="@string/send_email"
+            android:textColor="#FCF9F9"
+            android:textSize="30sp"/>
+</LinearLayout>
